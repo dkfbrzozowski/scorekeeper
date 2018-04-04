@@ -1,0 +1,26 @@
+/* .Player {
+    width: 100%;
+    text-align: center;
+    font-weight: bold;     
+}
+
+span[class^="Player__"] {
+    height: 20px;
+    display: inline-block;
+    color: #000;
+    border: 1px solid green;
+}
+
+.Player__name {
+     width: 40%;
+}
+
+.Player__score {
+    padding: 0 20px;
+    border-right: 1px solid;
+}
+
+.Player__button {
+    width: 100px;  
+    background-color: indianred;
+} */
